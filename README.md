@@ -71,7 +71,7 @@ Motivos:
 
 ## 👨‍💻 Desenvolvido por
 
-Estudante de Análise e Desenvolvimento de Sistemas
+Diego Oliveira - Estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 
