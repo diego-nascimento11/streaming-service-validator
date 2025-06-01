@@ -50,16 +50,17 @@ src/
 
 ```
 Usuário: Paulo
-❌ Acesso negado.
-Motivos:
-- Idade inferior a 16.
-- Conta não verificada.
+✅ Acesso autorizado. (Usuário é premium).
+
 
 Usuário: Ana
 ✅ Acesso autorizado.
 
-Usuário: Pietro
-✅ Acesso autorizado. (Usuário é premium).
+Usuário: Diego
+❌ Acesso negado.
+Motivos:
+- Idade inferior a 16.
+- Conta não verificada.
 ```
 
 ## 🛠️ Tecnologias Utilizadas
