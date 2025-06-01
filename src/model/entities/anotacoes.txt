@@ -1,0 +1,40 @@
+🚀 Desafio: Sistema de Validação em Massa de Usuários de um Serviço de Streaming
+📜 Enunciado:
+Você irá criar um sistema que cadastra vários usuários em um serviço de streaming.
+
+Cada usuário possui os seguintes dados:
+
+Nome (String)
+
+Idade (int)
+
+Conta verificada (boolean)
+
+Plano premium ativo (boolean)
+
+Está em dia com o pagamento (boolean)
+
+✅ Regras para liberar acesso ao streaming:
+Se o usuário for plano premium, o acesso sempre é autorizado independentemente dos outros fatores.
+
+Caso não seja premium:
+
+Precisa ter idade maior ou igual a 16.
+
+A conta precisa estar verificada.
+
+Precisa estar em dia com o pagamento.
+
+📊 Objetivo do sistema:
+
+Processar cada usuário e informar:
+
+"Acesso autorizado" ou "Acesso negado".
+
+Caso negado, exibir os motivos (pode ser mais de um):
+
+Menor de idade.
+
+Conta não verificada.
+
+Pagamento em atraso.
