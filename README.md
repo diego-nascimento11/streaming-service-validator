@@ -76,3 +76,8 @@ Diego Oliveira - Estudante de Análise e Desenvolvimento de Sistemas
 ---
 
 > Este projeto faz parte do meu portfólio acadêmico e demonstra conhecimentos em Java, validação de regras de negócio e estruturas de dados.
+
+## 📧 Contato
+- LinkedIn: [Diego Oliveira] (https://www.linkedin.com/in/diego-oliveira-5333a4369/)
+- Email: diegooliveira03333@gmail.com
+- GitHub: [diego-nascimento11] (https://github.com/diego-nascimento11)
