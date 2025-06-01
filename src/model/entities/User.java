@@ -73,7 +73,7 @@ public class User {
      *
      * @return true se o usuário tem acesso, false caso contrário
      */
-    public boolean hasAcces() {
+    public boolean hasAccess() {
         // Premium bypassa todas as validações - acesso garantido
         if (premium) {
             return true;

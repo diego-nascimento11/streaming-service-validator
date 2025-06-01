@@ -57,7 +57,7 @@ public class Main {
         for (User c : users) {
             System.out.println("Usuário: " + c.getName());
             // Verifica se o usuário tem acesso ao sistema
-            if (c.hasAcces()) {
+            if (c.hasAccess()) {
                 if (c.isPremium()) {
                     System.out.println("✅ Acesso autorizado. (Usuário é premium).");
                 } else {
